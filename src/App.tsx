@@ -71,7 +71,7 @@ function App() {
       <div>
         <Badge.Ribbon text="TensorCode">
           <Card size="small">
-            <h3>Git/Github Workshop</h3>
+            <h3>Git/Github Workshop 22:00</h3>
           </Card>
         </Badge.Ribbon>
       </div>
